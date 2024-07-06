@@ -1,4 +1,4 @@
-@@ -1,17 +1,16 @@
+
 ## Olá! Eu sou o Plinio Oliveira👋
 
 - 🔭 Trabalho em meus proprios projetos...
