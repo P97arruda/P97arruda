@@ -29,10 +29,7 @@ I'm **Plinio de Arruda Oliveira**, a developer passionate about technology and i
   <!-- JavaScript -->
   <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 
-  <!-- TypeScript -->
-  <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-
-  <!-- React -->
+   <!-- React -->
   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
   <!-- HTML -->
