@@ -1,4 +1,4 @@
-## 👋 Hello :)!!!
+Hi, 
 Welcome to my profile!  
 I'm **Plinio de Arruda Oliveira**, a developer passionate about technology and innovation.  
 
