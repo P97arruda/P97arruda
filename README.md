@@ -1,16 +1,22 @@
-Hi, 
-Welcome to my profile!  
-I'm **Plinio de Arruda Oliveira**, a developer passionate about technology and innovation.  
+👋 Hi, welcome to my GitHub!
+
+I'm Plinio de Arruda Oliveira, a Software Developer focused on building solid applications and continuously improving my skills.
 
 ---
 
-<div align="center">
+## 📊 GitHub Stats
 
-  <!-- Estatísticas -->
-  <img src="https://github-readme-stats.vercel.app/api?username=P97arruda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180" alt="Stats Graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=P97arruda&layout=compact&langs_count=6&theme=dracula" height="180" alt="Languages Graph" />
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=P97arruda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" 
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=P97arruda&layout=compact&langs_count=6&theme=dracula" 
+    height="180"
+  />
 </div>
+
 
 ---
 
