@@ -1,6 +1,6 @@
-👋 Hi, welcome to my GitHub!
+# 👋 Hi, welcome to my GitHub!
 
-I'm Plinio de Arruda Oliveira, a Software Developer focused on building solid applications and continuously improving my skills.
+I'm **Plinio de Arruda Oliveira**, a Software Developer focused on building solid applications and continuously improving my skills.
 
 ---
 
@@ -8,50 +8,40 @@ I'm Plinio de Arruda Oliveira, a Software Developer focused on building solid ap
 
 <div align="center">
   <img 
+    height="170"
     src="https://github-readme-stats.vercel.app/api?username=P97arruda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" 
-    height="180"
   />
   <img 
+    height="170"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=P97arruda&layout=compact&langs_count=6&theme=dracula" 
-    height="180"
   />
 </div>
 
-
 ---
 
-### 🧰 Languages & Tools
+## 🧰 Languages & Tools
 
-<div align="center" style="display: inline_block"><br>
-  <!-- C# -->
-  <img align="center" alt="CSharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
-  <!-- .NET -->
-  <img align="center" alt=".NET" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
+<div align="center">
 
-  <!-- Java -->
-  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" />
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 
-  <!-- JavaScript -->
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-
-   <!-- React -->
-  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-
-  <!-- HTML -->
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-  <!-- CSS -->
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-  <!-- SQL Server -->
-  <img align="center" alt="SQL Server" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 </div>
 
 ---
+
+## 🌐 Connect with me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/plinio-de-arruda-oliveira-9a5699213/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img 
+      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
   </a>
 </div>
