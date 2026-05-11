@@ -25,7 +25,7 @@ I'm **Plinio de Arruda Oliveira**, a Software Developer focused on building soli
 
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" />
- />
+ 
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
