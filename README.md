@@ -4,19 +4,14 @@ I'm **Plinio de Arruda Oliveira**, a Software Developer focused on building soli
 
 ---
 
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img 
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=P97arruda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" 
-  />
-  <img 
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=P97arruda&layout=compact&langs_count=6&theme=dracula" 
-  />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=P97arruda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P97arruda&layout=compact&langs_count=6&theme=dracula" />
 </div>
-
 ---
 
 ## 🧰 Languages & Tools
