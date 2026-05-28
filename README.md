@@ -6,7 +6,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/plinio-de-arruda-oliveira-9a5699213/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
- src="https://komarev.com/ghpvc/?username=P97arruda&style=for-the-badge&color=6366f1&label=VISITAS" />
 </div>
 <br/>
 
