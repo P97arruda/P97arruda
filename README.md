@@ -18,17 +18,7 @@
 </div>
 <br/>
 
-📊 Stats
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=P97arruda&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P97arruda&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=P97arruda&theme=tokyonight&hide_border=true" />
-</div>
-<br/>
+
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:818cf8,100:6366f1&height=100&section=footer" />
