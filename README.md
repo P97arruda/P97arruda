@@ -1,22 +1,23 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:818cf8&height=160&section=header&text=Plinio%20Oliveira&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=55" />
-</div>
-<h3 align="center">Software Developer · C# · Web · Always building</h3>
-<br/>
-<div align="center">
+<h1 align="center">Plinio Oliveira</h1>
+
+<p align="center">
+  Software Developer • C# • .NET • React
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/plinio-de-arruda-oliveira-9a5699213/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</div>
-<br/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-🛠️ Stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,html,css,sqlserver&perline=8" />
-</div>
-<br/>
+## 🛠️ Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,html,css,sqlserver" />
+</p>
 
+---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:818cf8,100:6366f1&height=100&section=footer" />
-</div>
+<p align="center">
+  Building projects with C#, .NET and React 🚀
+</p>
