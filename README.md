@@ -1,7 +1,7 @@
-<h1 align="center">Olá, eu sou Plinio Oliveira 👋</h1>
+<h1 align="center">Hi, I'm Plinio Oliveira 👋</h1>
 
 <p align="center">
-  Desenvolvedor de Software focado em C#, .NET e React
+  Software Developer focused on C#, .NET and React
 </p>
 
 <p align="center">
@@ -12,28 +12,28 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About Me
 
-Sou desenvolvedor de software em formação, com foco no desenvolvimento de aplicações Web, APIs REST e sistemas de gestão.
+I am a software development student focused on building web applications, REST APIs and management systems.
 
-Atualmente desenvolvo projetos utilizando C#, ASP.NET Core, React, PostgreSQL e SQL Server. Também estou aprofundando meus conhecimentos em testes, arquitetura de software, Docker e serviços em nuvem.
+I currently develop projects using C#, ASP.NET Core, React, PostgreSQL and SQL Server. I am also improving my knowledge of software testing, software architecture, Docker and cloud services.
 
 ---
 
-## 🚀 Principais tecnologias
+## 🚀 Main Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,html,css" />
 </p>
 
-## 🗄️ Bancos de dados
+## 🗄️ Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql" />
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 </p>
 
-## 🧰 Ferramentas e plataformas
+## 🧰 Tools and Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,azure,git,github,visualstudio,vscode,postman" />
@@ -41,19 +41,18 @@ Atualmente desenvolvo projetos utilizando C#, ASP.NET Core, React, PostgreSQL e 
 
 ---
 
-## 📚 Atualmente estudando
+## 📚 Currently Learning
 
 - ASP.NET Core Web API
 - Entity Framework Core
-- Programação Orientada a Objetos
-- SQL e Stored Procedures
-- Testes unitários e testes de integração
-- Docker e Docker Compose
-- Arquitetura de software, SOLID e DDD
-- Microsserviços
-- React e TypeScript
-- Azure e CI/CD
+- Object-Oriented Programming
+- SQL and Stored Procedures
+- Unit and Integration Testing
+- Docker and Docker Compose
+- Software Architecture, SOLID and DDD
+- Microservices
+- React and TypeScript
+- Azure and CI/CD
 
 ---
-
 
