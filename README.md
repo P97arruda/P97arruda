@@ -56,15 +56,4 @@ Atualmente desenvolvo projetos utilizando C#, ASP.NET Core, React, PostgreSQL e 
 
 ---
 
-## 💻 Projetos em desenvolvimento
 
-- **ApplyLook:** plataforma para organizar candidaturas de emprego.
-- **PertoBR:** plataforma para conectar brasileiros que vivem no exterior.
-- **Sistema de Oficina:** aplicação para gestão de clientes, veículos, marcações e reparações.
-- **Sistema de Barbearia:** plataforma Web e Mobile para agendamentos.
-
----
-
-<p align="center">
-  Desenvolvendo projetos e evoluindo todos os dias com C#, .NET e React 🚀
-</p>
